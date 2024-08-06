@@ -1,4 +1,4 @@
-I create  admin user called Username: ITCLASSB      Password:  123
+I create  admin user called : ITCLASSB      Password:  123
 but you can create your Own user  it depend on what you want to  use 
 
 
