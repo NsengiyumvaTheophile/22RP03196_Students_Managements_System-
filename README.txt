@@ -1,8 +1,6 @@
+
 I create  admin user called Username: ITCLASSB      Password:  123
 but you can create your Own user  it depend on what you want to  use 
-
-
-
 
  Student Management System
 ==========================
@@ -37,4 +35,3 @@ Place the project files in your web server's root directory (e.g., htdocs for XA
 
 Contact
 For any questions related to this assignment, please call me  +250780888084 
-
